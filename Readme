@@ -1,0 +1,89 @@
+<h1 align="center">Hi 👋, I'm Manognya P</h1>
+<h3 align="center">Aspiring AIML Engineer | Final-Year AIML Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+ML%2FAI+powered+apps;RAG+%2B+LLMs+%7C+Computer+Vision+%7C+Android;Turning+ideas+into+working+products" alt="typing-svg" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 Final-year AIML undergrad, CGPA **9.1/10**
+- 🔍 Currently targeting **AIML Engineer** roles
+- 🧠 Learning **RAG pipelines & LLMs**, building projects hands-on
+- ☁️ Certified in **AWS**, **CAD**, and **ServiceNow CSA**
+- 📫 Open to off-campus opportunities — reach out below!
+
+---
+
+### 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🍎 FreshSense</h4>
+      AI-based food freshness monitoring & shelf-life prediction Android app.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+    </td>
+    <td width="50%">
+      <h4>🧠 DocMind</h4>
+      RAG-based personal AI assistant using Streamlit, LangChain & ChromaDB.
+      <br><br>
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square">
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔁 SpareIt</h4>
+      Peer-to-peer item lending mobile app.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Mobile%20App-4285F4?style=flat-square&logo=googleplay&logoColor=white">
+    </td>
+    <td width="50%">
+      <h4>⏰ FoodClock</h4>
+      OCR-based food expiry tracker using Flask, EasyOCR & OpenCV.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PManognya&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PManognya&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PManognya&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — let's build something great together!</i></p>
